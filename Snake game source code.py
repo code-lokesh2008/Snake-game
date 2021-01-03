@@ -12,7 +12,7 @@ high_score=0
 
 #screen title
 wn=turtle.Screen()
-wn.title("Snake by Lokesh")
+wn.title("Snake by code-lokesh2008")
 wn.bgcolor("green")
 wn.setup(width=600,height=600)
 wn.tracer(0)
